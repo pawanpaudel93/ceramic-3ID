@@ -58,6 +58,15 @@
   cursor: pointer;
 }
 
+.disconnect {
+  background-color: red;
+  color: white;
+  padding: 5px;
+  border-radius: 10%;
+  border: 0px;
+  font-size: 16px;
+  cursor: pointer;
+}
 .button:hover {
   background-color: beige;
 }
